@@ -117,4 +117,36 @@ Train it based on a lot of data. LLMs trained on Neural Networks. So that AI can
 
 ## Scratch:
 
-A GUI based programming method developed by MIT Open Course Ware (OCW). 
+A GUI based programming language developed by MIT Open Course Ware (OCW). IT works by dragging and dropping blocks. 
+
+Note: C is popular and omnipresent, incredibily fast, and makes devices operate quickly. It provides a conceptual foundation on top which new langauages such as Python will be introduced by abstracting some of the things and provide functionalities for free. 
+
+C looks scary because of the syntax. It comes with time and practice. 
+
+Left side, palatte of puzzle pieces such as motion, looks, sound etc. 
+
+Middle is where we drag and drop the blocks to form code. 
+
+We control 1 or more sprites. Sprites are characters in a game for example.
+
+When green flag clicked: Start.
+
+Top of the character world window, there are green flag symoblizing start and a stop button. 
+
+Purple puzzle pieces are functions. Some functions take an input called parameters. 
+
+Some functions can hand you back a return value. In scratch it is called an "answer." Store the return value as a variable in real code. "Answer" is a return value. 
+
+There are wait blocks under control palette in Scratch.
+
+There are "join" blocks in Operators palette. 
+
+Nesting blocks on top of each other are deliberate such that outputs become the inputs for other functions / algorithms. 
+
+Bottom left has "extensions." Empowered by cloud. For example Text to Speech.
+
+Repeat blocks in Control palette. 
+
+
+
+
