@@ -114,3 +114,7 @@ Indentation matters in that pseudocode.
 Artificial Intelligence. 
 
 Train it based on a lot of data. LLMs trained on Neural Networks. So that AI can figure out the if conditionals. As it is impossible to code all conditionals. 
+
+## Scratch:
+
+A GUI based programming method developed by MIT Open Course Ware (OCW). 
