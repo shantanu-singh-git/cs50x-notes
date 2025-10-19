@@ -147,6 +147,23 @@ Bottom left has "extensions." Empowered by cloud. For example Text to Speech.
 
 Repeat blocks in Control palette. 
 
+### Abstractions
+
+Why implement meow again? Why go through complexity to build the meow functionality? 
+
+Under "my blocks" palette, create "Make a Block". 
+
+Define "meow". meow is the function name. 
+
+Implementation detail has been abstracted. Meowing has been implemented. Anybody can use the function in the future.
+
+Abstraction is simply the ability to define functions such that the implementation is hidden away for practical future use.
+
+You can add an input to the function if you right click the function and select edit. 
+
+You can add a number or text input. You can add a boolean input. You can also ass a label that simply is a piece of text that allows better readability. 
+
+
 
 
 
