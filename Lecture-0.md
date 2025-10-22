@@ -163,6 +163,18 @@ You can add an input to the function if you right click the function and select 
 
 You can add a number or text input. You can add a boolean input. You can also ass a label that simply is a piece of text that allows better readability. 
 
+## Conditionals
+
+In the Control palette, there is a forever block and if conditional blocks. 
+
+Under sensing, there is touching mouise pointer block.
+
+Video sensing extension block available.
+
+## Oscartime. 
+
+Multiple sprites. 
+
 
 
 
